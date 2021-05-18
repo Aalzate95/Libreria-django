@@ -41,5 +41,12 @@ Una vez creado es necesario reiniciar el servidor de desarrollo.
 #### Personalización del sitio de Administrador
 [Administración](https://docs.djangoproject.com/en/1.10/ref/contrib/admin/)
 
+
+
+
+Links:
+[Api-rest-framework](https://medium.com/swlh/build-your-first-rest-api-with-django-rest-framework-e394e39a482c)
+
 actualmente voy por esta sección:
-[aquí](https://developer.mozilla.org/es/docs/Learn/Server-side/Django/Models)
+[aquí](https://developer.mozilla.org/es/docs/Learn/Server-side/Django/Sessions)
+me quedé en la sección de sesiones, revisar el tema de auth.
