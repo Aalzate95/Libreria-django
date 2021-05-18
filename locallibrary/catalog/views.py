@@ -9,3 +9,10 @@ class BookViewSet(viewsets.ReadOnlyModelViewSet):
     def get_queryset(self):
         book = models.Book.objects.all()
         return book
+
+class AuthorViewSet(viewsets.ReadOnlyModelViewSet):
+    serializer_class = serializers.AuthorSerializer
+
+    def get_queryset(self):
+        author = models.Author.objects.all()
+        return author
