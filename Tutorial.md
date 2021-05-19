@@ -60,3 +60,5 @@ actualmente voy por esta sección:
 me quedé en la sección de sesiones, revisar el tema de auth.
 
 [TokenAuth](https://simpleisbetterthancomplex.com/tutorial/2018/11/22/how-to-implement-token-authentication-using-django-rest-framework.html)
+
+[RegisterUsers](https://medium.com/django-rest/django-rest-framework-login-and-register-user-fd91cf6029d5)

@@ -19,8 +19,8 @@ from rest_framework.authtoken.views import obtain_auth_token
 
 urlpatterns = [
     path('catalog/', include('catalog.urls')),
-    path('master', include('master.urls')),
-    path('api-token-auth/',obtain_auth_token),
+    path('master/', include('master.urls')),
+    path('auth/login/',obtain_auth_token),
     path('auth/',include('rest_framework.urls',namespace='rest_framework'))
 ]
 #include('rest_framework.urls',namespace='rest_framework'),
