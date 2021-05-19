@@ -13,8 +13,6 @@ from django.db.models import (
 )
 from django.urls import reverse #Used to generate URLs by reversing the URL patterns
 
-# Create your models here.
-
 
 class Book(Model):
     title = CharField(max_length=200)

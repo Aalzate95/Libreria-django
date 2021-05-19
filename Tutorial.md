@@ -43,10 +43,20 @@ Una vez creado es necesario reiniciar el servidor de desarrollo.
 
 
 
+---
 
 Links:
 [Api-rest-framework](https://medium.com/swlh/build-your-first-rest-api-with-django-rest-framework-e394e39a482c)
+## Links that helped to create Thot
+1. https://stackpython.medium.com/how-to-start-django-project-with-a-database-postgresql-aaa1d74659d8
+How to create a Django project with a database postgresql.
+
+2. https://realpython.com/deploying-a-django-app-and-postgresql-to-aws-elastic-beanstalk/#elastic-beanstalk-vs-ec2:
+
+[Seguridad](https://developer.mozilla.org/es/docs/Learn/Server-side/Django/web_application_security)
 
 actualmente voy por esta sección:
 [aquí](https://developer.mozilla.org/es/docs/Learn/Server-side/Django/Sessions)
 me quedé en la sección de sesiones, revisar el tema de auth.
+
+[TokenAuth](https://simpleisbetterthancomplex.com/tutorial/2018/11/22/how-to-implement-token-authentication-using-django-rest-framework.html)
