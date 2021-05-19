@@ -1,5 +1,4 @@
 # Introducción a Django
-[Tutorial](https://developer.mozilla.org/es/docs/Learn/Server-side/Django/Introduction)
 
 ### Comandos esenciales
 
@@ -38,27 +37,32 @@ Para poder iniciar sesion en el administrador de Django necesitamos crear un usu
 `python manage.py createsuperuser`
 Una vez creado es necesario reiniciar el servidor de desarrollo.
 
-#### Personalización del sitio de Administrador
-[Administración](https://docs.djangoproject.com/en/1.10/ref/contrib/admin/)
-
-
-
 ---
+## Links que ayudar a la creación de este proyecto
 
-Links:
+Tutorial para crear una aplicación web de una biblioteca con Django
+[Tutorial](https://developer.mozilla.org/es/docs/Learn/Server-side/Django/Introduction)
+
+Como Crear un API REST framework con Django
 [Api-rest-framework](https://medium.com/swlh/build-your-first-rest-api-with-django-rest-framework-e394e39a482c)
-## Links that helped to create Thot
-1. https://stackpython.medium.com/how-to-start-django-project-with-a-database-postgresql-aaa1d74659d8
+
 How to create a Django project with a database postgresql.
+[Django-postgresql](https://stackpython.medium.com/how-to-start-django-project-with-a-database-postgresql-aaa1d74659d8)
 
-2. https://realpython.com/deploying-a-django-app-and-postgresql-to-aws-elastic-beanstalk/#elastic-beanstalk-vs-ec2:
+Como desplegar una aplicación en Elastic Beanstalk de AWS
+[Django-in-AWS](https://realpython.com/deploying-a-django-app-and-postgresql-to-aws-elastic-beanstalk/#elastic-beanstalk-vs-ec2:)
 
+Medidas de seguridad con Django
 [Seguridad](https://developer.mozilla.org/es/docs/Learn/Server-side/Django/web_application_security)
 
-actualmente voy por esta sección:
-[aquí](https://developer.mozilla.org/es/docs/Learn/Server-side/Django/Sessions)
-me quedé en la sección de sesiones, revisar el tema de auth.
-
+Como generar un token de Autenticación
 [TokenAuth](https://simpleisbetterthancomplex.com/tutorial/2018/11/22/how-to-implement-token-authentication-using-django-rest-framework.html)
 
+Como registrar usuarios.
 [RegisterUsers](https://medium.com/django-rest/django-rest-framework-login-and-register-user-fd91cf6029d5)
+
+Sesions authentications and Permission in Django Rest Framework
+[Youtube](https://www.youtube.com/watch?v=CrT2PLynuPk)
+
+Personalización del sitio de Administrador
+[Administración](https://docs.djangoproject.com/en/1.10/ref/contrib/admin/)
